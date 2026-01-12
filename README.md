@@ -21,21 +21,21 @@ Sales teams lacked visibility into seasonal swings, top SKUs, and channel effici
 ## 📊 Dashboard Highlights
 
 ### 1. Executive Overview & Trends
-![Executive Overview & Trends](attachments/5YbdvQQ3X5CfEJ4pEkA8u.png)
+![Executive Overview & Trends](images/Executive.png)
 - Total Revenue: $1.2B | Profit Margin: 37.36%
 - Seasonality peaks in May–June, dip in January
 - Profit and revenue trends tracked monthly
 - Order value distribution and margin-price relationships visualized
 
 ### 2. Product & Channel Performance
-![Product & Channel Performance](attachments/5hEHfTS3QqRVr1mwiZBZT.png)
+![Product & Channel Performance](images/Geographic.png)
 - Top revenue SKUs: Products 26 & 25 ($117M, $109M)
 - High-margin SKUs: Products 9, 30, 28 (≥38%)
 - Channel breakdown: Wholesale (54%), Distributor (31%), Export (15%)
 - Margin efficiency scorecard across channels
 
 ### 3. Geographic & Customer Insights
-![Geographic & Customer Insights](attachments/sTYQuiBZoyMfctfS7MzxV.png)
+![Geographic & Customer Insights](images/Product.png)
 - California leads with $228.8M revenue
 - West region shows highest profit margin (37.5%)
 - Top customers: Aibox Company ($13M), State Ltd ($12M)
